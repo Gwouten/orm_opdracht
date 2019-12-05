@@ -4,13 +4,12 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-application.poperties
 
 ### STS ###
 .apt_generated
 .classpath
 .factorypath
-.project
+.project0
 .settings
 .springBeans
 .sts4-cache
